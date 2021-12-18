@@ -1,15 +1,15 @@
 # NextStop
 ## Destination Determination
 
-Every wonder where you should go next?
+    Every wonder where you should go next?
 
-
-The web app will store a list of destinations you want to visit, and select one for you.
+    The web app will store a list of destinations you want to visit, and select one for you.
 
 ### Most basic MVP
-Add string to array stored in memory, select random index.
+    Add string to array stored in memory, select random index.
 
 ### How to make it better?
+***
 - Store on local memory
 - Add backend… store entries on server
 - Make Destination OBJ with more data to allow more intelligent random selection
@@ -33,3 +33,7 @@ Add string to array stored in memory, select random index.
     - Visited vs Unvisited
     - Priority or Ranking system
 - Share destinations with other Users or    Planners.  Could find destinations that meet criteria that match multiple users best.
+
+***
+
+[Open Live Google Doc](https://docs.google.com/document/d/1bXQdkQt8bHtB6rKUvQfYB_WpNbDNRgNKAe6wAOZ5rFQ/edit?usp=sharing)
